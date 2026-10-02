@@ -1,9 +1,9 @@
-- 👋 Hi, I am Raunak Acharya
+- 👋 Hi, I am Raunak Acharya.
  <!---- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
-- 😄 Pronouns: he/him
+
 
 <!---
 raunakacharya01/raunakacharya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
